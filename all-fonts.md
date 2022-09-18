@@ -1,35 +1,3 @@
-# Figlet
-
-```
-┏━╸╻┏━╸╻  ┏━╸╺┳╸   ┏━╸┏━┓┏┓╻╺┳╸┏━┓
-┣╸ ┃┃╺┓┃  ┣╸  ┃    ┣╸ ┃ ┃┃┗┫ ┃ ┗━┓
-╹  ╹┗━┛┗━╸┗━╸ ╹    ╹  ┗━┛╹ ╹ ╹ ┗━┛
-```
-
-This is my collection of ascii art fonts for [figlet](http://www.figlet.org/) or [toilet](http://caca.zoy.org/wiki/toilet). 
-
-## How to use
-
-### Install to figlet's default font directory
-
-To install, copy the font files to `/usr/share/figlet/` or `/usr/share/figlet/fonts/`.
-
-Using this method allow you to use these font's just like you use a regular builtin `figlet` font.
-
-### Use them directly
-
-To use them directly, simply indicate their path when invoking figlet:
-
-```
-figlet -d figlet-fonts -i Whimsy "FIGLET FONTS"
-```
-
-## How they look like
-
-This is a preview with the same text (_"FIGLET FONT"_) using all fonts.
-
-This was generated using this [simple script](Examples.md).
-
 ### 1Row
 ```
 /= | (_, |_ [- ~|~   /= () |\| ~|~ _\~ 
@@ -6283,6 +6251,4 @@ d88'      `?8888P'd88'   88b  `?8b  `?888P'
 ```
 ][= ]][ ((6 ][_ ]E `][`   ][= [[]] ][\][ `][` ((5 
 ```
-
-
 
