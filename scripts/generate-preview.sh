@@ -1,4 +1,4 @@
-font_dir=/home/stefan.golinschi/Downloads/figlet-fonts
+font_dir=../fonts
 sample_text="FIGLET FONTS"
 
 
