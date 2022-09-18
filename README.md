@@ -28,7 +28,7 @@ figlet -d figlet-fonts -i Whimsy "FIGLET FONTS"
 
 This is a preview with the same text (_"FIGLET FONT"_) using all fonts.
 
-This was generated using this [simple script](Examples.md).
+This was generated using this [simple script](scripts/generate-preview.sh).
 
 ### 1Row
 ```
